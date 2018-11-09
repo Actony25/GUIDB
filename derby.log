@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 09 09:11:51 EST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0166-f8d0-9561-000006913000 
+on database directory C:\Users\acton\IdeaProjects\GUIDB\lib\books with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/acton/IdeaProjects/GUIDB/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\acton\IdeaProjects\GUIDB
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
