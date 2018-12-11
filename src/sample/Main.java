@@ -13,7 +13,7 @@ public class Main extends Application {
         //Setting the stage
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         //Setting the title
-        primaryStage.setTitle("Hello World");
+        primaryStage.setTitle("GUI Database");
         //Setting the width and height
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
