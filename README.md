@@ -11,3 +11,5 @@
   <li>Update an existing author
   <li>Delete an author
 </ol>
+<h2>Adherance to GUI Design Principles</h2>
+<p>Within this program, the user is thought of throughout key moments. The initial design and layout of the GUI is simple and clean for the user to navigate. The buttons are clearly labeled so the user will know what action they complete. The text areas the user will interact with are labeled as well to clear any confusion as to which textbox is for first name or last name. The interface is direct with the user while also allowing for some user error. Should they enter a name they wish to delete, they may do so with the delete button. To keep the design user friendly and simple, functionality is kept to a minimum while also meeting project requirements. This gets rid of any unecessary or confusing items for the user.</p>
