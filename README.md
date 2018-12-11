@@ -6,8 +6,5 @@
 <img src="GUIDB.gif" />
 <b><u>Steps</u></b>
 <ol>
-  <li>Read through the database<li/>
-  <li>Create a new author<li/>
-  <li>Update an existing author<li/>
-  <li>Delete an author<li/>
+  <li>Read through the database<li/><li>Create a new author<li/><li>Update an existing author<li/><li>Delete an author<li/>
 </ol>
